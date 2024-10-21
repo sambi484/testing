@@ -1,6 +1,6 @@
 export default {
     data: () => ({
-      title: 'CloudCannon Test Site',
+      title: 'CloudCannon Test Sitecdsavsadvsdvs',
     }),
     render: (h) => (
       <html>
